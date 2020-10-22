@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +21,16 @@ namespace ConsoleApp6
                 this.c = ran.Next(1, 50);
             }
         }
+        private bool IsCorrect(double a,double b, double c)
+        {
+            bool res = true;
+            if (a + b <= c || b + c <= a || b >= a + c || a <= 0 || b <= 0 || c <= 0)
+            {
+                res=false;
+
+            }
+            return res;
+        }
         public double A
         {
             get
@@ -29,11 +39,11 @@ namespace ConsoleApp6
             }
             set
             {
-                if (value + b <= c || value + c <= b || value >= b + c || value <= 0)
+                if (IsCorrect(value,b,c))
                 {
-                    Console.WriteLine("Incorrect side A entered. The triangle cannot exist.");
+                    a = value;
                 }
-                else a = value;
+                else  Console.WriteLine("Incorrect side A entered. The triangle cannot exist.");
             }
         }
         public double B
@@ -44,11 +54,11 @@ namespace ConsoleApp6
             }
             set
             {
-                if (value + a <= c || value + c <= a || value >= a + c || value <= 0)
+                if (IsCorrect(a, value, c))
                 {
-                    Console.WriteLine("Incorrect side B entered. The triangle cannot exist.");
+                    b = value;
                 }
-                else b = value;
+                else Console.WriteLine("Incorrect side B entered. The triangle cannot exist.");
             }
         }
         public double C
@@ -59,11 +69,11 @@ namespace ConsoleApp6
             }
             set
             {
-                if (value + b <= a || value + c <= a || value >= b + a || value <= 0)
+                if (IsCorrect(a, b, value))
                 {
-                    Console.WriteLine("Incorrect side C entered. The triangle cannot exist.");
+                    c = value;
                 }
-                else c = value;
+                else Console.WriteLine("Incorrect side C entered. The triangle cannot exist.");
             }
         }
         static double Perimetr (double a, double b, double c)
