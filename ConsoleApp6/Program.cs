@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,7 @@ namespace ConsoleApp6
         public TTriangle()
         {
             Random ran = new Random();
-            while (a + b <= c || a + c <= b || b + c <= a)
+            while (IsCorrect(a,b,c)==false)
             {
                 this.a = ran.Next(1, 50);
                 this.b = ran.Next(1, 50);
@@ -82,7 +82,7 @@ namespace ConsoleApp6
         }
         static double Square (double a, double b, double c)
         {
-            double polyper = (a + b + c) / 2.0;
+            double polyper = Perimetr(a, b, c) / 2.0;
             return Math.Sqrt(polyper * (polyper - a) * (polyper - b) * (polyper - c));
         }
         public static void Trian(double a, double b, double c)
@@ -114,3 +114,4 @@ namespace ConsoleApp6
         }
     }
 }
+
