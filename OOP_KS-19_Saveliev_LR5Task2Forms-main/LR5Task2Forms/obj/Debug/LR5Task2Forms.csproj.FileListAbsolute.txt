@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.Form1.resources
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.Properties.Resources.resources
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\bin\Debug\LR5Task2Forms.exe.config
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\bin\Debug\LR5Task2Forms.exe
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\bin\Debug\LR5Task2Forms.pdb
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.exe
+C:\Users\user\source\repos\LR5Task2Forms\LR5Task2Forms\obj\Debug\LR5Task2Forms.pdb
