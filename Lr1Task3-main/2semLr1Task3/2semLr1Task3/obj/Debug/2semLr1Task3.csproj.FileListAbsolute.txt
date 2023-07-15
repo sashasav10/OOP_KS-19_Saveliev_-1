@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\bin\Debug\2semLr1Task3.exe.config
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\bin\Debug\2semLr1Task3.exe
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\bin\Debug\2semLr1Task3.pdb
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\2semLr1Task3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\_2semLr1Task3.Form1.resources
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\_2semLr1Task3.Properties.Resources.resources
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\2semLr1Task3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\2semLr1Task3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\2semLr1Task3.exe
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\2semLr1Task3.pdb
+C:\Users\user\source\repos\2semLr1Task3\2semLr1Task3\obj\Debug\_2semLr1Task3.nForm.resources

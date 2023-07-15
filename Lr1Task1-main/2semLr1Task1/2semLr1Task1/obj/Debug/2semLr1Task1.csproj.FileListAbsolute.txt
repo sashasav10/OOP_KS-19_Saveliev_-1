@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\bin\Debug\2semLr1Task1.exe.config
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\bin\Debug\2semLr1Task1.exe
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\bin\Debug\2semLr1Task1.pdb
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\2semLr1Task1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\_2semLr1Task1.Form1.resources
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\_2semLr1Task1.Properties.Resources.resources
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\2semLr1Task1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\2semLr1Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\2semLr1Task1.exe
+C:\Users\user\source\repos\2semLr1Task1\2semLr1Task1\obj\Debug\2semLr1Task1.pdb
