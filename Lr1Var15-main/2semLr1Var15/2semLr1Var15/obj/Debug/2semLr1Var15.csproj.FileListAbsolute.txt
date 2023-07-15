@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\bin\Debug\2semLr1Var15.exe.config
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\bin\Debug\2semLr1Var15.exe
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\bin\Debug\2semLr1Var15.pdb
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\2semLr1Var15.csprojAssemblyReference.cache
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\_2semLr1Var15.Form1.resources
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\_2semLr1Var15.Properties.Resources.resources
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\2semLr1Var15.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\2semLr1Var15.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\2semLr1Var15.exe
+C:\Users\user\source\repos\2semLr1Var15\2semLr1Var15\obj\Debug\2semLr1Var15.pdb

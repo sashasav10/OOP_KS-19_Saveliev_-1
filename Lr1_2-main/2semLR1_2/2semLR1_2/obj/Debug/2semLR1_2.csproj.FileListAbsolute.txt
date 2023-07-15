@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\bin\Debug\2semLR1_2.exe.config
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\bin\Debug\2semLR1_2.exe
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\bin\Debug\2semLR1_2.pdb
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\2semLR1_2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\_2semLR1_2.Form1.resources
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\_2semLR1_2.Properties.Resources.resources
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\2semLR1_2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\2semLR1_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\2semLR1_2.exe
+C:\Users\user\source\repos\2semLR1_2\2semLR1_2\obj\Debug\2semLR1_2.pdb
